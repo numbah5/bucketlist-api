@@ -16,6 +16,11 @@ const exampleSchema = new mongoose.Schema({
   }
 }, {
   timestamps: true
+}, {
+  completed: {
+    type: Boolean,
+    default: false
+  }
 })
 
 module.exports = mongoose.model('Example', exampleSchema)
