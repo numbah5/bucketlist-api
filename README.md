@@ -35,11 +35,10 @@ useful when user need a way to manage their life's lists of things to accomplish
 * As a signed in user, I'd like to see all my bucket list items but not other users'.
 * As a signed-in user, I'd like to see bucket list items I've completed.
 
-## Unsolved problems
-
 
 ## Planning, process, and problem-solving strategies
 
+## Improvements
 
 ## Members
 * [Allan]
