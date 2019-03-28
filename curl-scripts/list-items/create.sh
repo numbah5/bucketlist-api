@@ -11,8 +11,8 @@ curl "${API}${URL_PATH}" \
   --data '{
     "listItem": {
       "title": "'"${TITLE}"'",
-      "description": "'"${DESC}"'"
+      "description": "'"${DESCRIPTION}"'"
     }
-  }'
+  }' 
 
 echo
