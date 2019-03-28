@@ -14,6 +14,7 @@ const listItemSchema = new mongoose.Schema({
     ref: 'User',
     required: true
   },
+  // complete feature two 
   boolean: {
     type: Boolean,
     default: false
