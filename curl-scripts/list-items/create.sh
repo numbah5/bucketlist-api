@@ -12,7 +12,7 @@ curl "${API}${URL_PATH}" \
     "listItem": {
       "title": "'"${TITLE}"'",
       "description": "'"${DESCRIPTION}"'",
-      "boolean": "'"${BOOL}"'"
+      "boolean": "'"${BOOLEAN}"'"
     }
   }'
 
