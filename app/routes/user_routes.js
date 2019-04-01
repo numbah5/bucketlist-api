@@ -1,3 +1,4 @@
+
 const express = require('express')
 // jsonwebtoken docs: https://github.com/auth0/node-jsonwebtoken
 const crypto = require('crypto')
@@ -45,7 +46,9 @@ router.post('/sign-up', (req, res, next) => {
       // return necessary params to create a user
       return {
         email: req.body.credentials.email,
-        hashedPassword: hash
+        hashedPassword: hash,
+        firstName: req.body.credentials.firstName,
+        lastName: req.body.credentials.lastName
       }
     })
     // create user with provided email and hashed password
