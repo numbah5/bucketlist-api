@@ -5,8 +5,9 @@ As a user, one can create, read, update and delete bucketlist items. This tool i
 useful when user need a way to manage their life's lists of things to accomplish.
 
 ## Directory
-Front-End Repo(https://github.com/numbah5/bucketlist-client)
-Deployed Link(https://numbah5.github.io/bucketlist-client/)
+Front-End Repo: (https://github.com/numbah5/bucketlist-client)
+Deployed Heroku: (https://bucketlist-app-api.herokuapp.com/)
+Deployed App: (https://numbah5.github.io/bucketlist-client/)
 
 ## Technology
 - Ajax
