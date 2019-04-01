@@ -6,7 +6,7 @@ useful when user need a way to manage their life's lists of things to accomplish
 
 ## Directory
 Front-End Repo(https://github.com/numbah5/bucketlist-client)
-Deployed Link(add link)
+Deployed Link(https://numbah5.github.io/bucketlist-client/)
 
 ## Technology
 - Ajax
