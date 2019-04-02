@@ -55,7 +55,7 @@ Integrate with a 3rd location-based API:
 ## Member
 * Allan Oliveira
 * Aristotle Anderson, "Rex"
-* Henrique Oliveria
+* Henrique Oliveira
 * Rishi Surana
 * Vicky Rockingster
 
