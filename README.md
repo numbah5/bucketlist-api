@@ -54,8 +54,8 @@ useful when user need a way to manage their life's lists of things to accomplish
     '/list-items/:id' --> router.get(), router.patch(), router.delete()
 
 ## Members
-    * [Allan]
-    * [Henrique]
+    * [Allan Oliveira]
+    * [Henrique Oliveira]
     * [Rex]
     * [Rish]
     * [Vicky]
